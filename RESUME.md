@@ -7,12 +7,24 @@ McIntosh High School 2019-Present
 Extracurriculars
 - Percussionist 2016-Present
 - Spirit of McIntosh Marching Band Member 2019-2022
-- Spirit of McIntosh Marching Band Percussion Leadership in Training 2021
-- Spirit of McIntosh Marching Band Percussion Leadership 2022
+- McIntosh Orchestra Percussion Volunteer 2021-Present
+- Pit Percussionst for McIntosh High School Musical 2021
+
+CTE
+- AP Computer Science A 2021-22 year
+- Intro to Software Technology 2022-23 year
 
 ## Work Experience
-### Employment
- - Peachtree City First Presbyterian Kindergarden Summer Fundays Funtime Assistant
+Employment
+ - First Presbyterian Kindergarden Summer Fundays Funtime Assistant 
  - Peachtree City Lazers U10 Boys Assistant Coach
 
+Volunteering
+- Peachtree City Lazers TOPSoccer Assistant Coach 2019-Present
+- First Presbyterian Church AV Volunteer 2021-Present
+- McIntosh High School Media Center Volunteer 2021-Present
+
 ## Hobbies
+- Writing
+- Percussion
+- Video games
