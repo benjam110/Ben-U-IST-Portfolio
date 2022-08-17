@@ -26,5 +26,6 @@ Volunteering
 
 ## Hobbies
 - Writing
+- Composing music
 - Percussion
 - Video games
