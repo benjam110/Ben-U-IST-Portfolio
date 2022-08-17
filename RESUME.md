@@ -1,8 +1,8 @@
 # Ben's Resume
 
 ## Education
-JC Booth Middle School 2017-2019
-McIntosh High School 2019-Present
+- JC Booth Middle School 2017-2019
+- McIntosh High School 2019-Present
 
 Extracurriculars
 - Percussionist 2016-Present
