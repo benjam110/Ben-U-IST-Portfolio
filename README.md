@@ -3,3 +3,5 @@ Hello there! I'm Ben. This is an Intro to Software Technology portfolio that I m
 
 ## Contents
 - [Resume](RESUME.md)
+- [Programming Languages Table](PROGRAMMING_LANGUAGES_TABLE.md)
+- [Binary Logic](BINARY_LOGIC.md)
