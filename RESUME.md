@@ -29,3 +29,9 @@ Volunteering
 - Composing music
 - Percussion
 - Video games
+
+## Typing
+ - Keys Learned
+   - J, F, and Space
+   - U, R and K
+   - D, E, and I
