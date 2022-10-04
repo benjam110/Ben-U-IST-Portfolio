@@ -35,3 +35,7 @@ Volunteering
    - J, F, and Space
    - U, R and K
    - D, E, and I
+   - C,G, and N
+   - T, S, and L
+ - Typing Speed
+   - 40 wpm
