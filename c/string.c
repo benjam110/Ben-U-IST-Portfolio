@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdbool.h>
 
 int main() {
 	char name[30];
 	char y[3];
-	while(true){
+	while(1){
 		printf("Enter the name of your character: ");
 		scanf("%s", &name);
 		printf("Is %s correct?(y/n)", name);
