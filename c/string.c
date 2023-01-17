@@ -7,7 +7,7 @@ int main() {
 	while(1){
 		printf("Enter the name of your character: ");
 		scanf("%s", &name);
-		printf("Is %s correct?(y/n)", name);
+		printf("Is %c correct?(y/n)", name);
 		scanf("%s", y);
 		if(strcmp(y, "y") == 0){
 			break;
